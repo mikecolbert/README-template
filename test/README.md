@@ -7,8 +7,9 @@
 ![Microsoft Azure badge](https://img.shields.io/static/v1?message=azure&logo=microsoft-azure&labelColor=0078D4&color=0078D4&logoColor=white&label=%20&style=for-the-badge)
 ![University of Iowa badge](https://img.shields.io/static/v1?message=Hawks!!&labelColor=000000&color=FFCD00&logoColor=white&label=Go&style=for-the-badge)
 ![University of Iowa badge](https://img.shields.io/static/v1?message=Go%20Hawks!!&labelColor=000000&color=FFCD00&logoColor=white&label=%20&style=for-the-badge)
+![University of Iowa badge](https://img.shields.io/static/v1?message=IA&labelColor=FFCD00&color=000000&logoColor=white&label=Iowa%20City&style=for-the-badge)
 
-## Description  
+## :fire: Description  
 
 [Link to running application](http://example.com)
 
@@ -16,7 +17,7 @@ A short paragraph about this project. What does it do? Why did you make it? Who 
 
 You might include a second paragraph about what you learned from completing the project.  
 
-## Installation
+## :zap: Installation
 1. Step-by-step instructions
 2. for installing and running your project.
 3. To help someone get this from 
@@ -48,16 +49,16 @@ foobar.pluralize('goose')
 foobar.singularize('phenomena')
 ```
 
-## Author(s)
+## :100: Author(s)
 List of developers who contributed to the project.
 
-## Contributing
+## :information_desk_person: Contributing
 
 Pull requests are welcome. For major changes, please open an issue first
 to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
 
-## License
+## :paperclip: License
 
 [MIT](https://choosealicense.com/licenses/mit/)
