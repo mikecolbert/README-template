@@ -1,18 +1,12 @@
 # Project title
 
 [![Python badge](https://img.shields.io/static/v1?message=python&logo=python&labelColor=5c5c5c&color=3776AB&logoColor=white&label=%20&style=for-the-badge)](https://python.org)
-
 ![HTML5 badge](https://img.shields.io/static/v1?message=html&logo=html5&labelColor=5c5c5c&color=E34F26&logoColor=white&label=%20&style=for-the-badge)
-
 ![Flask badge](https://img.shields.io/static/v1?message=flask&logo=flask&labelColor=5c5c5c&color=000000&logoColor=white&label=%20&style=for-the-badge)
-
 ![Microsoft Azure badge](https://img.shields.io/static/v1?message=azure&logo=microsoft-azure&labelColor=5c5c5c&color=0078D4&logoColor=white&label=%20&style=for-the-badge)
-
 ![Microsoft Azure badge](https://img.shields.io/static/v1?message=azure&logo=microsoft-azure&labelColor=0078D4&color=0078D4&logoColor=white&label=%20&style=for-the-badge)
-
 ![University of Iowa badge](https://img.shields.io/static/v1?message=Hawks!!&labelColor=000000&color=FFCD00&logoColor=white&label=Go&style=for-the-badge)
-
-![University of Iowa badge](https://img.shields.io/static/v1?message=Go%20Hawks!!&labelColor=000000&color=FFCD00&logoColor=white&label=&style=for-the-badge&logo=)
+![University of Iowa badge](https://img.shields.io/static/v1?message=Go%20Hawks!!&labelColor=000000&color=FFCD00&logoColor=white&label=%20&style=for-the-badge)
 
 ## Description  
 
