@@ -8,6 +8,10 @@
 ![University of Iowa badge](https://img.shields.io/static/v1?message=Hawks!!&labelColor=000000&color=FFCD00&logoColor=white&label=Go&style=for-the-badge)
 ![University of Iowa badge](https://img.shields.io/static/v1?message=Go%20Hawks!!&labelColor=000000&color=FFCD00&logoColor=white&label=%20&style=for-the-badge)
 ![University of Iowa badge](https://img.shields.io/static/v1?message=IA&labelColor=FFCD00&color=000000&logoColor=white&label=Iowa%20City&style=for-the-badge)
+![Iowa City badge](https://img.shields.io/static/v1?message=IA&logo=google-maps&l&labelColor=ffcd00&color=000000&logoColor=black&label=Iowa%20City&style=for-the-badge)
+![Bootstrap 5 badge](https://img.shields.io/static/v1?message=Bootstrap%205&logo=bootstrap&l&labelColor=5c5c5c&color=7952B3&logoColor=white&label=%20&style=for-the-badge)
+![Bootstrap 5 badge](https://img.shields.io/static/v1?message=Bootstrap%205&logo=bootstrap&l&labelColor=7952B3&color=7952B3&logoColor=white&label=%20&style=for-the-badge)
+
 
 ## :fire: Description  
 
