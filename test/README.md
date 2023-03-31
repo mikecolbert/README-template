@@ -66,3 +66,17 @@ Please make sure to update tests as appropriate.
 ## :paperclip: License
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+
+(https://www.makeareadme.com/)
+(https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/)
+(https://javascript.plainenglish.io/how-to-make-custom-language-badges-for-your-profile-using-shields-io-d2aeaf016b6b)
+(https://gist.github.com/rxaviers/7360908)
+(https://shields.io/category/social)
+(https://simpleicons.org/)
+(https://docs.github.com/en/actions/monitoring-and-troubleshooting-workflows/adding-a-workflow-status-badge)
+(https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#images)
+(https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
+
+
