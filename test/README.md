@@ -17,7 +17,7 @@ A short paragraph about this project. What does it do? Why did you make it? Who 
 
 You might include a second paragraph about what you learned from completing the project.  
 
-## :zap: Installation
+## :white_check_mark: Installation
 1. Step-by-step instructions
 2. for installing and running your project.
 3. To help someone get this from 
