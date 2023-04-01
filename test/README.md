@@ -6,7 +6,7 @@
 ![Microsoft Azure badge](https://img.shields.io/static/v1?message=azure&logo=microsoft-azure&labelColor=5c5c5c&color=0078D4&logoColor=white&label=%20&style=for-the-badge)
 ![Microsoft Azure badge](https://img.shields.io/static/v1?message=azure&logo=microsoft-azure&labelColor=0078D4&color=0078D4&logoColor=white&label=%20&style=for-the-badge)
 ![University of Iowa badge](https://img.shields.io/static/v1?message=Hawks!!&labelColor=000000&color=FFCD00&label=Go&style=for-the-badge)
-![University of Iowa badge](https://img.shields.io/static/v1?message=Go%20Hawks!!&labelColor=FFCD00&color=FFCD00&style=for-the-badge)
+![University of Iowa badge](https://img.shields.io/static/v1?message=Go%20Hawks!!&labelColor=FFCD00&label=%20&color=FFCD00&style=for-the-badge)
 ![University of Iowa badge](https://img.shields.io/static/v1?message=IA&labelColor=FFCD00&color=000000&logoColor=white&label=Iowa%20City&style=for-the-badge)
 ![Iowa City badge](https://img.shields.io/static/v1?message=IA&logo=google-maps&l&labelColor=ffcd00&color=000000&logoColor=black&label=Iowa%20City&style=for-the-badge)
 ![Bootstrap 5 badge](https://img.shields.io/static/v1?message=Bootstrap%205&logo=bootstrap&labelColor=5c5c5c&color=7952B3&logoColor=white&label=%20&style=for-the-badge)
