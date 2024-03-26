@@ -17,6 +17,8 @@ Commit image to repository and link to it.
 ![alt text for image](https://github.com/mikecolbert/test/blob/main/test.png) 
 ```
 
+![Salary prediction home page](https://github.com/mikecolbert/README-template/blob/main/repo_assets/screenshot_index.png)
+
 ---
 
 ## What did I learn?
