@@ -78,7 +78,7 @@ Short paragraph or two about the new skill(s) you learned in this project.
 ---
 
 ## Change log
-<date>: <developer> -- <change>
+date: developer -- change(s) made
 
 
 
